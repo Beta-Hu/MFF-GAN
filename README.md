@@ -1,2 +1,2 @@
 # MFF-GAN
-An unofficial implement of MFF-GAN
+An unofficial implementation of MFF-GAN
